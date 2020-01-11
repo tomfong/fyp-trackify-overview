@@ -15,8 +15,8 @@ This is a repository for overview of Trackify - Dementia Patient Tracking System
 
 ## Child Repository
 ### Frontend
-- App: https://github.com/lhfongaa/fyp-gch2-app-trackify
-- Web Portal: <TBA>
+- App: https://github.com/lhfongaa/trackify-app
+- Web Portal: https://github.com/lhfongaa/trackify-webportal
   
 ### Backend
-- https://github.com/lhfongaa/fyp-gch2-backend
+- https://github.com/lhfongaa/trackify-backend
