@@ -1,8 +1,8 @@
 # Trackify Overview
-This is an overview of Trackify - Dementia Patients Tracking System using Mobile Crowdsourcing, the CSE Final Year Project of HKUST in 2019-2020. 
+This is an overview of Trackify - Dementia Patients Anti-Wandering System using Mobile Crowdsourcing, a CSE Final Year Project of HKUST in 2019-2020. 
 ## Project Information
-#####  Topic
-- Trackify - Dementia Patients Tracking System using Mobile Crowdsourcing
+#####  Topic Full Name
+- Trackify - Dementia Patients Anti-Wandering System using Mobile Crowdsourcing
 ##### Project ID
 - GCH2
 #####  Supervisor
