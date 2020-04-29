@@ -27,7 +27,9 @@ Our project mainly develops a reliable dementia patients anti-wandering system, 
 ## Methodology
 ![overview of anti-wandering solution](img/overview.png)
 
-The idea of using mobile crowdsourcing is to outsource part of the work to our users, turning their mobile device to a medium of providing service and collecting data. How Trackify locates the patients and perform anti-wandering is relied on the computation of the data crowdsourced from their mobile devices. The patients have to take along with an iBeacon tag. When their caregivers notify the system that their patients are lost, the app we provided to users can detect the beacon signals from the lost patients and upload their location information so that the system can locate the patient based on these data. Once the system successfully complete its computation, the resulting location will be displayed on the map in the app so that the caregivers can perform anti-wandering.
+The idea of using mobile crowdsourcing is to outsource part of the work to our users, turning their mobile device to a medium of providing service and collecting data. How Trackify locates the patients and perform anti-wandering is relied on the computation of the data crowdsourced from their mobile devices. 
+
+The patients have to take along with an iBeacon tag. When their caregivers notify the system that their patients are lost, the app we provided to users can detect the beacon signals from the lost patients and upload their location information (e.g. GPS data) provided by their phones so that the system can locate the patient based on these data. Once the system successfully complete its computation, the resulting location will be displayed on the map in the app so that the caregivers can perform anti-wandering.
 
 ## System Architecture
 ![system architecture](img/system_architecture.png)
