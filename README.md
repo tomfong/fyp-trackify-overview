@@ -27,20 +27,16 @@ Our project mainly develops a reliable dementia patients anti-wandering system, 
 ## Methodology
 ![overview of anti-wandering solution](img/overview.png)
 
-The idea of using mobile crowdsourcing is to outsource part of the work to our users, turning their mobile device to a medium of providing service and collecting data. How Trackify locates the patients and perform anti-wandering is relied on the computation of the data crowdsourced from their mobile devices.
-
-![sample of tag](img/tag_sample.png)
-
-The solution works based on the use of an iBeacon Tag. It is a portable device which continuously emits detectable beacon signals to the surroundings. To implement the anti-wandering, the patients have to take along with the tag. When their caregivers notify the system that their patients are lost, the app we provided to users can help detect the beacon signals from the lost patients and simultaneously upload their location data so that the system can locate the patient based on these data. Once the system successfully complete its computation, the resulting location will be displayed on the map in the app so that the caregivers can perform anti-wandering.
+The idea of using mobile crowdsourcing is to outsource part of the work to our users, turning their mobile device to a medium of providing service and collecting data. How Trackify locates the patients and perform anti-wandering is relied on the computation of the data crowdsourced from their mobile devices. The patients have to take along with an iBeacon tag. When their caregivers notify the system that their patients are lost, the app we provided to users can detect the beacon signals from the lost patients and upload their location information so that the system can locate the patient based on these data. Once the system successfully complete its computation, the resulting location will be displayed on the map in the app so that the caregivers can perform anti-wandering.
 
 ## System Architecture
 ![system architecture](img/system_architecture.png)
 
 ## Development Tools
-- Mobile App: Ionic Framework
-- Web Portal: Ionic Framework
-- Backend Server: Go Language
-- Database: MongoDB
+- Mobile App:   Ionic Framework
+- Web Portal:   Ionic Framework
+- Backend:      Go Language
+- Database:     MongoDB
 
 ## Screenshots
 - Coming soon!
