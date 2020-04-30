@@ -33,6 +33,8 @@ Hong Kong, similar to many cities in the world, is facing progressive population
 
 Our project mainly develops a reliable dementia patients anti-wandering system, namely Trackify. It is a solution using a newly rising data sourcing model – mobile crowdsourcing to implement anti-wandering in which we outsource part of the localization task to our userbase. We build a fully functional system that involves a mobile app, a web portal and a backend system with the use of iBeacon technology.
 
+<img src="img/logo.png" width="400">
+
 By using Trackify, people can be served an anti-wandering service with higher capability to urban environments, more durable operations, and less inconvenience, meanwhile they can contribute to helping other caregivers by sensing the lost patients in the community.
 
 ## Methodology
