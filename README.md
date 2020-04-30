@@ -37,7 +37,7 @@ By using Trackify, people can be served an anti-wandering service with higher ca
 
 ## Methodology
 
-![overview of anti-wandering solution](img/overview.png)
+<img src="img/overview.png" width="750">
 
 The idea of using mobile crowdsourcing is to outsource part of the work to our users, turning their mobile device to a medium of providing service and collecting data. How Trackify locates the patients and perform anti-wandering is relied on the computation of the data crowdsourced from their mobile devices.
 
@@ -47,7 +47,7 @@ People who are willing to help dementia patients and their caregivers can also u
 
 ## System Architecture
 
-![system architecture](img/system_architecture.png)
+<img src="img/system_architecture.png" width="750">
 
 ## Development Tools
 
