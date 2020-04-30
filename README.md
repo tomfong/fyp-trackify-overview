@@ -2,27 +2,6 @@
 
 This is an overview of Trackify - Dementia Patients Anti-Wandering System using Mobile Crowdsourcing, a CSE Final Year Project of HKUST in 2019-2020.
 
-## Project Information
-
-##### Topic Full Name
-
-- Trackify - Dementia Patients Anti-Wandering System using Mobile Crowdsourcing
-
-##### Project ID
-
-- GCH2
-
-##### Supervisor
-
-- Prof. Gary Shueng-Han CHAN
-
-##### Team Members
-
-- CHONG Li Yen (https://github.com/lychongaa)
-- FONG Lam Hang (https://github.com/lhfongaa)
-- LEUNG Chun Hei (https://github.com/chleungao)
-- PENG Zhixuan (https://github.com/PengZhixuan)
-
 ## Introduction
 
 Hong Kong, similar to many cities in the world, is facing progressive population ageing that brings many challenges to our society. One of the generally recognized issues is the dementia, a brain disease commonly occurred in the aged group, hence the demand for anti-wandering of dementia people. There are some solutions like GPS tracking device to serve the purpose, though, they are not adequate to meet the need due to the following limitations:
@@ -66,6 +45,28 @@ People who are willing to help dementia patients and their caregivers can also u
 ## Installation
 
 - Coming soon!
+
+## Project Information
+
+##### Topic Full Name
+
+- Trackify - Dementia Patients Anti-Wandering System using Mobile Crowdsourcing
+
+##### Project ID
+
+- GCH2
+
+##### Supervisor
+
+- Prof. Gary Shueng-Han CHAN
+
+##### Team Members
+
+- CHONG Li Yen (https://github.com/lychongaa)
+- FONG Lam Hang (https://github.com/lhfongaa)
+- LEUNG Chun Hei (https://github.com/chleungao)
+- PENG Zhixuan (https://github.com/PengZhixuan)
+
 
 ## Child Repository (Access Restricted)
 
