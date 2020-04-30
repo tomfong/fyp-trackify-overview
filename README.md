@@ -45,7 +45,7 @@ People who are willing to help dementia patients and their caregivers can also u
 
 ## Screenshots
 ![landing page](img/landing.png | height=500)
-![dashboard page](img/dashboard.png | height=500)
+![dashboard page](img/dashboard.png)
 ![sample result](img/result.png | height=500)
 ![sensing engine](img/sensing_engine.png | height=500)
 
