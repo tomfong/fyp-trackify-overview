@@ -44,10 +44,10 @@ People who are willing to help dementia patients and their caregivers can also u
 - Highlighting Technologies:    iBeacon
 
 ## Screenshots
-![landing page](img/landing.png)
-![dashboard page](img/dashboard.png)
-![sample result](img/result.png)
-![sensing engine](img/sensing_engine.png )
+<img src="img/landing.png" width="100">
+<img src="img/dashboard.png" width="100">
+<img src="img/result.png" width="100">
+<img src="img/sensing_engine.png" width="100">
 
 ## Installation
 - Coming soon!
