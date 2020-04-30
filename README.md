@@ -16,13 +16,13 @@ This is an overview of Trackify - Dementia Patients Anti-Wandering System using 
 ## Introduction
 Hong Kong, similar to many cities in the world, is facing progressive population ageing that brings many challenges to our society. One of the generally recognized issues is the dementia, a brain disease commonly occurred in the aged group, hence the demand for anti-wandering of dementia people. There are some solutions like GPS tracking device to serve the purpose, though, they are not adequate to meet the need due to the following limitations:
 
-1. Short service time,
-2. High dependence on single data source, and
-3. Costly and inconvenient maintenance.
+1. Short service time due to short recharge cycle,
+2. High dependence on single data source (i.e. GPS), and
+3. Inconvenient maintenance and usage.
 
-Our project mainly develops a reliable dementia patients anti-wandering system, namely Trackify. It is a solution using a newly rising data sourcing model – mobile crowdsourcing to implement anti-wandering in which we outsource part of the localization task to our userbase. We build a fully functional system that involves a mobile app, a web portal, and a backend system with the use of iBeacon technology. Users can be served an anti-wandering service in approaches of higher capability to urban environments, more durable operations, and less inconvenience.
+Our project mainly develops a reliable dementia patients anti-wandering system, namely Trackify. It is a solution using a newly rising data sourcing model – mobile crowdsourcing to implement anti-wandering in which we outsource part of the localization task to our userbase. We build a fully functional system that involves a mobile app, a web portal and a backend system with the use of iBeacon technology.
 
-
+By using Trackify, people can be served an anti-wandering service with higher capability to urban environments, more durable operations, and less inconvenience, meanwhile they can contribute to helping other caregivers by sensing the lost patients in the community.
 
 ## Methodology
 ![overview of anti-wandering solution](img/overview.png)
@@ -30,6 +30,8 @@ Our project mainly develops a reliable dementia patients anti-wandering system, 
 The idea of using mobile crowdsourcing is to outsource part of the work to our users, turning their mobile device to a medium of providing service and collecting data. How Trackify locates the patients and perform anti-wandering is relied on the computation of the data crowdsourced from their mobile devices. 
 
 The patients have to take along with an iBeacon tag. When their caregivers notify the system that their patients are lost, the app we provided to users can detect the beacon signals from the lost patients and upload their location information (e.g. GPS data) provided by their phones so that the system can locate the patient based on these data. Once the system successfully complete its computation, the resulting location will be displayed on the map in the app so that the caregivers can perform anti-wandering.
+
+People who are willing to help dementia patients and their caregivers can also use Trackify, as an Angel user, to help sensing the lost patients.
 
 ## System Architecture
 ![system architecture](img/system_architecture.png)
@@ -39,17 +41,23 @@ The patients have to take along with an iBeacon tag. When their caregivers notif
 - Web Portal:   Ionic Framework
 - Backend:      Go Language
 - Database:     MongoDB
+- Highlighting Technologies:    iBeacon
 
 ## Screenshots
-- Coming soon!
+![landing page](img/landing.png)
+![dashboard page](img/dashboard.png)
+![sample result](img/result.png)
+![sensing engine](img/sensing_engine.png)
 
 ## Installation
 - Coming soon!
 
 ## Child Repository (Access Restricted)
-### Frontend
-- App: https://github.com/lhfongaa/trackify-app
-- Web Portal: https://github.com/lhfongaa/trackify-webportal
+### App
+- https://github.com/lhfongaa/trackify-app
+
+### Web Portal
+- https://github.com/lhfongaa/trackify-webportal
   
 ### Backend
 - https://github.com/lhfongaa/trackify-backend
