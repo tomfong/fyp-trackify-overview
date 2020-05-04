@@ -42,9 +42,6 @@ People who are willing to help dementia patients and their caregivers can also u
 
 <img src="img/landing.png" width="200"> <img src="img/dashboard.png" width="200"> <img src="img/result.png" width="200"> <img src="img/sensing_engine.png" width="200">
 
-## Installation
-
-- Coming soon!
 
 ## Project Information
 
