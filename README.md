@@ -36,7 +36,7 @@ People who are willing to help dementia patients and their caregivers can also u
 - Web Portal: Ionic Framework
 - Backend: Go Language
 - Database: MongoDB
-- Highlighting Technologies: iBeacon
+- Other Technologies: iBeacon, Firebase
 
 ## Screenshots
 
