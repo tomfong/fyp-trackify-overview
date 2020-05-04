@@ -40,7 +40,7 @@ People who are willing to help dementia patients and their caregivers can also u
 
 ## Screenshots
 
-<img src="img/landing.png" width="200"> <img src="img/dashboard.png" width="200"> <img src="img/service_normal.png" width="200"> <img src="img/service_lost.png" width="200"> <img src="img/result.png" width="200"> <img src="img/sensing_engine.png" width="200">
+<img src="img/landing.png" width="150"> <img src="img/dashboard.png" width="150"> <img src="img/service_normal.png" width="150"> <img src="img/service_lost.png" width="150"> <img src="img/result.png" width="150"> <img src="img/sensing_engine.png" width="150">
 
 
 ## Project Information
