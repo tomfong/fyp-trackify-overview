@@ -1,6 +1,6 @@
 # Trackify Overview
 
-This is an overview of Trackify - Dementia Patients Anti-Wandering System using Mobile Crowdsourcing, a CSE Final Year Project of HKUST in 2019-2020.
+This is an overview of Dementia Patients Anti-Wandering System using Mobile Crowdsourcing, a CSE Final Year Project of HKUST in 2019-2020.
 
 ## Introduction
 
@@ -50,7 +50,7 @@ People who are willing to help dementia patients and their caregivers can also u
 
 ##### Topic Full Name
 
-- Trackify - Dementia Patients Anti-Wandering System using Mobile Crowdsourcing
+- Dementia Patients Anti-Wandering System using Mobile Crowdsourcing
 
 ##### Project ID
 
@@ -68,16 +68,3 @@ People who are willing to help dementia patients and their caregivers can also u
 - PENG Zhixuan (https://github.com/PengZhixuan)
 
 
-## Child Repository (Access Restricted)
-
-### App
-
-- https://github.com/lhfongaa/trackify-app
-
-### Web Portal
-
-- https://github.com/lhfongaa/trackify-webportal
-
-### Backend
-
-- https://github.com/lhfongaa/trackify-backend
