@@ -5,6 +5,9 @@ This is an overview of Dementia Patients Anti-Wandering System using Mobile Crow
 ## Introduction
 
 - Introduction Video:
+
+<img src="img/video_cover.png" width="400">
+
 https://www.cse.ust.hk/ug/fyp/posters/gallery/2019-2020/GCH2.mp4
 
 
