@@ -4,7 +4,7 @@ This is an overview of Dementia Patients Anti-Wandering System using Mobile Crow
 
 ## Introduction
 
-![](https://www.cse.ust.hk/ug/fyp/posters/gallery/2019-2020/GCH2.mp4)
+![](./video/gch2.mp4)
 
 Hong Kong, similar to many cities in the world, is facing progressive population ageing that brings many challenges to our society. One of the generally recognized issues is the dementia, a brain disease commonly occurred in the aged group, hence the demand for anti-wandering of dementia people. There are some solutions like GPS tracking device to serve the purpose, though, they are not adequate to meet the need due to the following limitations:
 
