@@ -1,6 +1,6 @@
 # Trackify Overview
 
-This is an overview of Dementia Patients Anti-Wandering System using Mobile Crowdsourcing, a CSE Final Year Project of HKUST in 2019-2020.
+This is the overview of "Dementia Patients Anti-Wandering System using Mobile Crowdsourcing", namely Trackify, a Computer Science and Engineering Final Year Project of The Hong Kong University of Science and Technology in 2019-2020.
 
 ## Introduction
 
