@@ -66,7 +66,7 @@ People who are willing to help dementia patients and their caregivers can also u
 ##### Team Members
 
 - CHONG Li Yen (https://github.com/lychongaa)
-- FONG Lam Hang (https://github.com/lhfongaa)
+- FONG Lam Hang (https://github.com/tomfong)
 - LEUNG Chun Hei (https://github.com/chleungao)
 - PENG Zhixuan (https://github.com/PengZhixuan)
 
